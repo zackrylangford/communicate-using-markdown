@@ -15,3 +15,11 @@ Adding some code to test out.
 ```
 $ git init 
 ```
+
+
+
+### Grocery list for this weekend
+
+- [X] Bananas
+- [ ] Apples
+- [ ] Soup
