@@ -7,3 +7,11 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+Adding some code to test out. 
+
+```
+$ git init 
+```
